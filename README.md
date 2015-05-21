@@ -8,3 +8,7 @@
     
 
 暂时不支持size的设置默认大小是300*300
+
+![运行结果](https://raw.githubusercontent.com/itlijunjie/QRGenerator/master/test.png)
+
+[下载工具](http://write.blog.csdn.net/mdeditor)
