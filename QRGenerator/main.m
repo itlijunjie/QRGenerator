@@ -15,9 +15,7 @@
 
 void help()
 {
-    NSLog(@"");
-    NSLog(@"");
-    NSLog(@"");
+    NSLog(@"简单的命令行工具：实例./QRGenerator -outpath ~/Desktop/test.png -content http://www.baidu.com");
 }
 
 BOOL isCommandParam(NSString *param)
