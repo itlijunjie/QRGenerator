@@ -10,4 +10,4 @@
 
 ![运行结果](https://raw.githubusercontent.com/itlijunjie/QRGenerator/master/test.png)
 
-[下载工具](http://write.blog.csdn.net/mdeditor)
+[下载工具](https://raw.githubusercontent.com/itlijunjie/QRGenerator/master/product/QRGenerator)
